@@ -57,7 +57,7 @@ class GraphAdjMat:
         """打印鄰接矩陣"""
         print("頂點列表 =", self.vertices)
         print("鄰接矩陣 =")
-        print_matrix(self.adj_mat)
+        # print_matrix(self.adj_mat)
         
 """Driver Code"""
 if __name__ == "__main__":
